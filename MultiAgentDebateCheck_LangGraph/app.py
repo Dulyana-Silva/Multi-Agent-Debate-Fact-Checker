@@ -658,7 +658,7 @@ st.markdown(
     '</p>'
     '<p class="muted">'
     'This is an experimental tool. '
-    'AI-generated verdicts may be incorrect; '
+    'AI-generated verdicts may be incorrect. '
     '</p>'
     '</div>',
     unsafe_allow_html=True
