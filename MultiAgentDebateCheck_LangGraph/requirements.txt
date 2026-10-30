@@ -1,3 +1,7 @@
+streamlit
+langgraph
+langsmith
 google-genai
 pydantic
-streamlit
+python-dotenv
+ddgs
